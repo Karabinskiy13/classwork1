@@ -1,0 +1,40 @@
+.background {
+    display: block;
+    width: 800px;
+    height: 1400px;
+}
+.header{
+    display: flex;
+    padding: 50px;
+}
+.left_header{
+    width: 300px;
+    height:400px;
+    background-color: blue;
+    margin: 10px;
+}
+.right_header{
+    width: 300px;
+    height: 400px;
+    background-color: blue;
+    margin: 10px;
+}
+.main{
+    width: 620px;
+    height: 200px;
+    background: blue;
+    margin-left: 60px;
+}
+.mainfooter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 60px;
+    margin-top: 30px;
+}
+.footer1{
+    width: 200px;
+    height: 150px;
+    background: deepskyblue;
+    margin: 5px;
+}
